@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
+
 <!--
 **quangbahoa/quangbahoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
