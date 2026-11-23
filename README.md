@@ -15,7 +15,6 @@
   </a>
   <img src="https://img.shields.io/badge/Age-40%2B_%26_Still_Learning-2E3440?style=flat-square" alt="40+ and still learning" />
   <img src="https://img.shields.io/badge/Philosophy-Existentialism-4C566A?style=flat-square" alt="Existentialism" />
-  [![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine)
 </p>
 
 ---
