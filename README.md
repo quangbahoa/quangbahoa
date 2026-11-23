@@ -59,6 +59,15 @@ Bridging the gap between battle-tested classics and modern ecosystems:
 
 ---
 
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quangbahoa&show_icons=true&theme=tokyonight&hide_border=true" alt="Thống kê GitHub của quangbahoa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangbahoa&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn ngữ sử dụng nhiều nhất của quangbahoa" />
+</div>
+
+---
+
 ### 📚 Beyond the Code
 
 ```text
