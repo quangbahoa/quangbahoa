@@ -65,7 +65,7 @@ $ cat ~/life/philosophy.txt
 - Đang đọc: Các tác phẩm văn học giai đoạn 1930 - 1945.
 - Đang nghe: Những giai điệu cũ kỹ gợi nhớ về một thời đã qua.
 - Đang ngắm: Những chòm sao và sự vận hành kỳ diệu của tự nhiên.
-
+```
 
 ### Hi there 👋
 
